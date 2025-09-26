@@ -6,4 +6,32 @@ Transform freelance work data into actionable insights through an interactive Ex
 
 ## Dataset used
 - <a href="https://github.com/Fathimathu-swafa/Freelancer_Insights_Dashboard/blob/main/Freelancer_dataset.xlsx">Dataset</a>
-- <a href="https://github.com/Fathimathu-swafa/Bike-Purchase-Analysis-Dashboard/blob/main/Raw%20Dataset.xlsx">Dataset</a>
+
+## KPIs
+-	Which job categories generate the highest income for freelancers?
+-	How does income vary across different freelance platforms (e.g., Upwork, Fiverr, Freelancer)?
+-	Which job categories have the highest rate of repeat clients?
+-	Which platforms have the best client satisfaction ratings?
+-	How is freelance income distributed across different client regions (e.g., Australia, Asia, USA)?
+
+<a href=”https://github.com/Fathimathu-swafa/Freelancer_Insights_Dashboard/blob/main/freelancer_dashboard.png”>Dashboard</a>
+
+## Data Processing
+-	Removed duplicates and nulls from dataset.
+-	Created pivot summaries to extract average ratings, rehire rates, income by platform, etc.
+-	use pivot tables, slicers, and charts for dashboard creation
+
+## Insights
+-	Content Writing, SEO, and Customer Support are the top-paying jobs.
+-	Upwork and Fiverr are the highest-income platforms.
+-	Data Entry and Customer Support have the most repeat clients.
+-	Freelancer and Upwork have the best client satisfaction.
+-	Top client regions are Australia, Asia, and the USA.
+
+## Conclusion
+-	Freelancers should focus on high-paying skills such as Content Writing, SEO, and Support roles.
+-	Choosing platforms like Upwork and Freelancer can provide a better balance of income and client satisfaction.
+-	Improving delivery and communication in categories with low repeat rates can boost client retention.
+-	Targeting clients in regions like Australia, Asia, and the USA can maximize earnings.
+
+
