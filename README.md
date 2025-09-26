@@ -8,10 +8,10 @@ Transform freelance work data into actionable insights through an interactive Ex
 
 ## KPIs
 -	Which job categories generate the highest income for freelancers?
--	How does income vary across different freelance platforms (e.g., Upwork, Fiverr, Freelancer)?
+-	How does income vary across different freelance platforms?
 -	Which job categories have the highest rate of repeat clients?
 -	Which platforms have the best client satisfaction ratings?
--	How is freelance income distributed across different client regions (e.g., Australia, Asia, USA)?
+-	How is freelance income distributed across different client regions?
 
 - <a href="https://github.com/Fathimathu-swafa/Freelancer_Insights_Dashboard/blob/main/freelancer_dashboard.png">Dashboard</a>
 
