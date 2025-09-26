@@ -5,4 +5,4 @@ An Excel dashboard that analyzes the freelance ecosystem across platforms, job c
 Transform freelance work data into actionable insights through an interactive Excel dashboard. It aims to help freelancers evaluate earnings potential, compare platform performance, and understand client trends, enabling smarter career planning and improved decision-making.
 
 ## Dataset used
-<a href=” https://github.com/Fathimathu-swafa/Freelancer_Insights_Dashboard/blob/main/Freelancer_dataset.xlsx “> Dataset</a>
+- <a href=” https://github.com/Fathimathu-swafa/Freelancer_Insights_Dashboard/blob/main/Freelancer_dataset.xlsx “> Dataset</a>
