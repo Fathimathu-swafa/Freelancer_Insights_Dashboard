@@ -13,7 +13,7 @@ Transform freelance work data into actionable insights through an interactive Ex
 -	Which platforms have the best client satisfaction ratings?
 -	How is freelance income distributed across different client regions?
 
-- <a href="https://github.com/Fathimathu-swafa/Freelancer_Insights_Dashboard/blob/main/freelancer_dashboard.png">Dashboard</a>
+- <a href="https://github.com/Fathimathu-swafa/Freelancer_Insights_Dashboard/blob/main/Freelancer_dashboard.png">Dashboard</a>
 
 
 ## Data Processing
